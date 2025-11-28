@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Name: GOKUL SHARAN R
 ## Reg No: 212223040052
-## Date: 18/09/2025
+## Date: 15/10/2025
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
